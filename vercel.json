@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/pair.js": {
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
