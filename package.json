@@ -1,0 +1,9 @@
+{
+  "name": "wa-vercel-test",
+  "version": "1.0.0",
+  "description": "WhatsApp pairing test on Vercel",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.17.2"
+  }
+}
